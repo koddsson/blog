@@ -7,6 +7,7 @@ import { config } from 'config'
 import Bio from 'components/Bio'
 
 import '../css/zenburn.css'
+import '../css/styles.css'
 
 class MarkdownWrapper extends React.Component {
   render () {

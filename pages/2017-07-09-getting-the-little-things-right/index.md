@@ -1,8 +1,15 @@
 ---
-title: Added to your schedule animation
+title: Getting the little things right
 date: "2017-07-09T00:00:00.000Z"
-path: "/added-to-your-schedule-animation/"
+path: "/getting-the-little-things-right/"
 ---
+
+<p class="disclaimer">
+I've decided not to spend a absurd amount of work on blog posts and just try to
+write down my thoughts more. Maybe I'll get better at writing in the process but
+in the mean time there are going to be some posts that are mostly just written
+for my own benefit. This is one of those posts.
+</p>
 
 Ever since I went to [Secret Solstice](https://secretsolstice.is) in 2016 I
 thought about creating a simple web-app to track the acts I wanted to see and
